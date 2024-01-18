@@ -49,5 +49,13 @@ Lightning is standard only for a sky model, which is described in the example wo
 > Later on in this folder there will be also provided .blend files containing example data of the branding, as well as the file readers for eventual prioritary software developed by HeavenParty's internal staff.
 
 
+## Additional LICENSCE details:
+Any of the applicable terms from GNU AGPLV3 licesce applied to "Source Code" may be applied to these assets.
+Use but don't abuse:
+ - abuse is one or more of the following:
+    - claming the files as your own
+    - use heavenparty's branding without permission
+
+
 Thank you very much for your cooperation.
 Sylvio@HeavenParty
