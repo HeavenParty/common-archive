@@ -12,7 +12,7 @@ The color theme may be rapresented as a linear gradient between colour like:
     magenta - cyan
     deep violet - deep blue
 
-### in RGB SETTING, for the gradient to be valid:
+### in RGB SETTING, for the gradient to be valid
 - Blue must be locked to a number N (0 - 255 / 0.0 - 1.0)
 - Red + Green must be equal to N
     
@@ -34,10 +34,10 @@ Lightning is standard only for a sky model, which is described in the example wo
 - Backgrounds Elements:
     - Here lays programming freedom, procedural generation, physics simulations or advanced shaders
     - Usually a procedurally generated object may be layered (not composited) on a background image
-
+
 - PostProcessing:
     - HeavenParty may not oversaturate or make heavy usage of raster effects, procedural meshes are the strengths of it really
-    - But it may gloom
+    - But it may glare (as Fog Glow)
 
 - Composition:
     - Logo may be applied on it AFTER or DURING rendering (as an in-scene object or layered image)
